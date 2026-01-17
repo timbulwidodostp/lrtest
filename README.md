@@ -1,6 +1,8 @@
 # lrtest
 Likelihood Ratio Test of Nested Models Use lrtest (lmtest) With (In) R Software
 
+https://www.youtube.com/watch?v=v1X91mRcpCQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
